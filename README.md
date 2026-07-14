@@ -15,6 +15,6 @@ Parameter Efficiency: To maintain computational efficiency, both the heavy Image
 The notebook includes visual segmentation plots to verify the alignment of our text prompts with the predicted masks. Below are examples of the model successfully locating target organs based purely on text input.
 
 <figure>
-  <img src="New Note.jpg">
+  <img src="New Note.jpeg">
   <figcaption> Orignal image with ground truth and the segmentation based on text prompt. </figcaption>
 </figure>
